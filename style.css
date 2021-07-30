@@ -1,0 +1,18 @@
+body{
+	text-align: center;
+	background-color: black;
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+	border-width:10px;
+	background-color: white; 
+	background-image: url(AAA.jpg);
+	border-style:ridge;
+}
+
+h1,h4
+{
+	color: white !important;
+}
